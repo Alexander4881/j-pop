@@ -1,11 +1,3 @@
-# MyFirstGame
-I TRY THIS!!!!!!!!!!
-dont work
+#J-pop
 
-
-ok it does work.. danm it..
-
-if(CAST == Force)
-{
-  Console.WriteLine("Casper You Are Tool");
-}
+homepage for a j-pop thanks to bombur
